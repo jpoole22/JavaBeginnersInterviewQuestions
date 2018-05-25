@@ -1,4 +1,4 @@
-package computrade.puzzels;
+package computrade.puzzles;
 
 import static org.junit.Assert.*;
 import org.junit.Test;

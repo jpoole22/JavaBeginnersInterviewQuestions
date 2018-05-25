@@ -1,4 +1,4 @@
-package computrade.puzzels;
+package computrade.puzzles;
 
 import java.util.Arrays;
 
@@ -14,7 +14,7 @@ public class FindAnagramStrings {
 	 * Our first solution to the anagram problem will check to see that each character in the first string
 	 *  actually occurs in the second. 
 	 *  
-	 *  If it is possible to “checkoff” each character, then the two strings must be anagrams.
+	 *  If it is possible to ï¿½checkoffï¿½ each character, then the two strings must be anagrams.
 	 *  Checking off a character will be accomplished by replacing it with '0'.
 	 *   	
 	 * Before starting:

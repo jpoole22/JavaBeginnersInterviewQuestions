@@ -1,4 +1,4 @@
-package computrade.puzzels;
+package computrade.puzzles;
 
 import org.junit.Before;
 import org.junit.Test;

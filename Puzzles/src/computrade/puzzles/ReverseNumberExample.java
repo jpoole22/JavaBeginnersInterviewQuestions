@@ -1,4 +1,4 @@
-package computrade.puzzels;
+package computrade.puzzles;
 
 public class ReverseNumberExample {
 

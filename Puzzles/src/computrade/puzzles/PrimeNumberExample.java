@@ -1,4 +1,4 @@
-package computrade.puzzels;
+package computrade.puzzles;
 
 /**
  * Simple Java program to find if a number is a prime number.
