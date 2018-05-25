@@ -4,10 +4,11 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collections/Collections.iml" filepath="$PROJECT_DIR$/Collections/Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentals/Fundamentals.iml" filepath="$PROJECT_DIR$/Fundamentals/Fundamentals.iml" />
       <module fileurl="file://$PROJECT_DIR$/Maps/Maps.iml" filepath="$PROJECT_DIR$/Maps/Maps.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Section3_Fundamental/Section3_Fundamental.iml" filepath="$PROJECT_DIR$/Section3_Fundamental/Section3_Fundamental.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Section4_OO/Section4_OO.iml" filepath="$PROJECT_DIR$/Section4_OO/Section4_OO.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Section7_Puzzles/Section7_Puzzles.iml" filepath="$PROJECT_DIR$/Section7_Puzzles/Section7_Puzzles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OO/OO.iml" filepath="$PROJECT_DIR$/OO/OO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Puzzles/Puzzles.iml" filepath="$PROJECT_DIR$/Puzzles/Puzzles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-beginner.iml" filepath="$PROJECT_DIR$/java-beginner.iml" />
     </modules>
   </component>
 </project>
