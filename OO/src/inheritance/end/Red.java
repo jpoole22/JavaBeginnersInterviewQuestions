@@ -2,8 +2,6 @@ package inheritance.end;
 
 public class Red extends Color {
 	
-	private int transparency;
-	
 	public Red(){
 		System.out.println("Printed from Red constructor");	
 	}

@@ -3,7 +3,7 @@ package inheritance.end;
 public abstract class Color implements ColorI{
 	
 	private String code;
-	private int transparency;
+	protected int transparency;
 	
 	public Color(){
 		System.out.println("Printed from Color constructor" );

@@ -43,5 +43,7 @@ public class HashMapExample {
             System.out.println("Name:  " + s.getName());
             System.out.println();
         }
+
+        students.entrySet().forEach(student -> System.out.println(student.getValue().getName()));
     }
 }

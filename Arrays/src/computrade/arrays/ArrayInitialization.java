@@ -4,7 +4,8 @@ import computrade.Student;
 
 public class ArrayInitialization{
 
-	private boolean[] booleanArray = new boolean[] {true,false,true}; 
+	private boolean[] booleanArray = new boolean[] {true,false,true};
+	private boolean[] booleanArray2 = {true,false,true}; // Type is implied
 	private Student[] studentArray = new Student[]{new Student(1,"Linda"),new Student(2,"Brian"),new Student(3,"Amit")};
 
 	public void printBooleanArray() {
